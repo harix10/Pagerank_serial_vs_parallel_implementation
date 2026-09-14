@@ -8,8 +8,8 @@
 
 ### Team Members
 
-- **Hari Krishnan S** — 2024BCS0116
-- **Shivkarthik Suresh** — 2024BCS0092
+- **Hari Krishnan S** 
+- **Shivkarthik Suresh** 
 
 ---
 
